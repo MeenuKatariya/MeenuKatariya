@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meenu Katariya</h1>
 <h3 align="center">An Aspiring full stack web developer from Haryana, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meenukatariya&label=Profile%20views&color=0e75b6&style=flat" alt="meenukatariya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenukatariya" alt="meenukatariya" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -12,6 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/meenukatariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meenukatariya" height="30" width="40" /></a>
+  
+  <a href="mailto:meenukatariya2330@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meenukatariya" height="30" width="40" /></a>
+
 
 </p>
 
