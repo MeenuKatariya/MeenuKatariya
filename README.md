@@ -3,20 +3,60 @@
 
 
 
-- 🌱 I’m currently learning **MERN stack**
-
-- 📫 How to reach me **meenukatariya2330@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/meenukatariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meenukatariya" height="30" width="40" /></a>
-   <a href="mailto:meenukatariya2330@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/102709273/173839547-e7a7bb3d-8456-490e-a9ab-04b51550af6e.png" alt="meenukatariya" height="30" width="40" /></a>
+<h2 align="center">About Me :raised_hand:</h2>
 
 
-</p>
+ &nbsp;&nbsp;&nbsp;:hammer_and_wrench: I am passionate Full Stack Web Developer who focuses on writing clean
+and user-friendly applications.
+<br/>
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; I love designing websites and coding.
+<br/>
+&nbsp;&nbsp;&nbsp;:seedling: I'm skilled at MERN based web app development, alongside upskilling my data structure and algorithms knowledge.
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/102709273/174141570-d5310018-9946-4268-86f1-80aad34415ac.png" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio: https://gayathry-portfolio.vercel.app/
+
+
+
+
+
+
+
+
+
+<h2 align="center">Contact Me At :star:</h2>
+
+<p align="center">
+   <a href="mailto:meenukatariya2330@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/meenukatariya"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ </p> 
+
+<br/>
+
+
+
+<h2 align="center">:computer: Tech Stacks </h2>
+<div align="center">
+  
+  ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+  ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+<!--   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
+<!--   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; -->
+<!--   ![Boot Strap](https://img.shields.io/badge/BootStrap-%234ea94b.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; -->
+ 
+  
+</div> 
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenukatariya&show_icons=true&locale=en&layout=compact" height="196" alt="meenukatariya" /></p>
 
