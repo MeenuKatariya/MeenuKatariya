@@ -15,7 +15,7 @@ and user-friendly applications.
 <br/>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio: https://gayathry-portfolio.vercel.app/
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio: https://gayathry-portfolio.vercel.app/ -->
 
 
 
