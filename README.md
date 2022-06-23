@@ -6,12 +6,12 @@
 <h2 align="center">About Me :raised_hand:</h2>
 
 
- &nbsp;&nbsp;&nbsp;: I am passionate Full Stack Web Developer who focuses on writing clean
+ &nbsp;&nbsp;&nbsp;I am passionate Full Stack Web Developer who focuses on writing clean
 and user-friendly applications.
 <br/>
-&nbsp;&nbsp;&nbsp; &nbsp; I love designing websites and coding.
+&nbsp;&nbsp;&nbsp; &nbsp;I love designing websites and coding.
 <br/>
-&nbsp;&nbsp;&nbsp; I'm skilled at MERN based web app development, alongside upskilling my data structure and algorithms knowledge.
+&nbsp;&nbsp;&nbsp;I'm skilled at MERN based web app development, alongside upskilling my data structure and algorithms knowledge.
 <br/>
 
 
