@@ -15,7 +15,7 @@ and user-friendly applications.
 <br/>
 
 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio: https://gayathry-portfolio.vercel.app/ -->
+ Portfolio:https://meenu-portfolio.netlify.app/
 
 
 
@@ -58,9 +58,9 @@ and user-friendly applications.
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenukatariya&show_icons=true&locale=en&layout=compact" height="196" alt="meenukatariya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenukatariya&show_icons=true&locale=en&layout=compact" width="400" height="196" margin-Top=0  alt="meenukatariya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenukatariya&show_icons=true&locale=en" alt="meenukatariya" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=meenukatariya&show_icons=true&locale=en" alt="meenukatariya" width="400"  /></p>
 
 
 
