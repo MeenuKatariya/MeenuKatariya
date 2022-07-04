@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meenu Katariya</h1>
 <h3 align="center">An Aspiring full stack web developer from Haryana, India</h3>
-
-
-
 <h2 align="center">About Me :raised_hand:</h2>
 
-
- &nbsp;&nbsp;&nbsp;I am passionate Full Stack Web Developer who focuses on writing clean
+&nbsp;&nbsp;&nbsp;I am passionate Full Stack Web Developer who focuses on writing clean
 and user-friendly applications.
 <br/>
 &nbsp;&nbsp;&nbsp;I love designing websites and coding.
@@ -65,9 +61,7 @@ and user-friendly applications.
 </div>
 
  &nbsp
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenukatariya&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-<a href="https://github.com/meenukatariya?tab=followers"><img src="https://img.shields.io/github/followers/meenukatariya?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+
 
 
 
@@ -79,4 +73,7 @@ and user-friendly applications.
 
 </div>
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenukatariya&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<a href="https://github.com/meenukatariya?tab=followers"><img src="https://img.shields.io/github/followers/meenukatariya?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
