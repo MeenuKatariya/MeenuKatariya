@@ -15,13 +15,8 @@ and user-friendly applications.
 <br/>
 
 
- &nbsp;&nbsp; Portfolio: &nbsp;  <a href="https://meenu-portfolio.netlify.app/" target="_blank">https://meenu-portfolio.netlify.app/</a>
-
-
-
-
-
-
+ &nbsp;&nbsp; 
+ Portfolio: &nbsp;  <a href="https://meenu-portfolio.netlify.app/" target="_blank">https://meenu-portfolio.netlify.app/</a>
 
 
 
