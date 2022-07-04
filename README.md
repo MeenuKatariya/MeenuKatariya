@@ -15,7 +15,7 @@ and user-friendly applications.
 <br/>
 
 
- &nbsp;&nbsp; Portfolio: &nbsp; https://meenu-portfolio.netlify.app/
+ &nbsp;&nbsp; Portfolio: &nbsp; "https://meenu-portfolio.netlify.app/ target="blank"
 
 
 
