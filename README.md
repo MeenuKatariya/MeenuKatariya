@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meenu Katariya</h1>
-<h3 align="center">An Aspiring full stack web developer from Haryana, India</h3>
+<h3 align="center"> Full stack web developer from Haryana, India</h3>
 <h2 align="center">About Me :raised_hand:</h2>
 
 &nbsp;&nbsp;&nbsp;I am passionate Full Stack Web Developer who focuses on writing clean
@@ -16,9 +16,9 @@ and user-friendly applications.
 
 
 
-<h2 align="center">Contact Me At :star:</h2>
+<h2 align="cente">Contact Me At :star:</h2>
 
-<p align="center">
+<p align="left">
    <a href="mailto:meenukatariya2330@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@ and user-friendly applications.
 
 
 
-<h2 align="center">:computer: Tech Stacks </h2>
+<h2 align="left">:computer: Tech Stacks </h2>
 <div align="center">
   
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
