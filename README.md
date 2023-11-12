@@ -16,7 +16,7 @@ and user-friendly applications.
 
 
 
-<h2 align="cente">Contact Me At :star:</h2>
+<h2 align="center">Contact Me At :star:</h2>
 
 <p align="left">
    <a href="mailto:meenukatariya2330@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,8 +29,8 @@ and user-friendly applications.
 
 
 
-<h2 align="left">:computer: Tech Stacks </h2>
-<div align="center">
+<h2 align="center">:computer: Tech Stacks </h2>
+<div align="left">
   
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
